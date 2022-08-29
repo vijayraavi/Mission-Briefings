@@ -4,7 +4,7 @@ Our networks are back online and we’ve successfully connected to a webcam on t
 
 Your mission is to use the Azure Cognitive Services Face API to detect the faces in this photo, retrieved from a Martian webcam just minutes ago. We must verify that all crew members are present. Any unusual results should be reported immediately to the commanding officers in the room. Let’s jump right in.
 
-____
+____ 
 
 ## CORE SKILL TRAINING
 
